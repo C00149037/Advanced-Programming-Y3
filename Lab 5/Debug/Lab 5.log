@@ -1,0 +1,6 @@
+﻿  Lab 5.cpp
+c:\users\brown\onedrive\documents\y3\advanced programming\lab excercises\lab 5\lab 5.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\brown\onedrive\documents\y3\advanced programming\lab excercises\lab 5\lab 5.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\brown\onedrive\documents\y3\advanced programming\lab excercises\lab 5\lab 5.cpp(12): warning C4101: 'choice': unreferenced local variable
+c:\users\brown\onedrive\documents\y3\advanced programming\lab excercises\lab 5\lab 5.cpp(13): warning C4101: 'count': unreferenced local variable
+  Lab 5.vcxproj -> C:\Users\brown\OneDrive\Documents\Y3\Advanced Programming\Lab Excercises\Lab 5\Debug\Lab 5.exe
